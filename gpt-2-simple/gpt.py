@@ -75,6 +75,8 @@ def create_large_text_dataset(filepath):
 # large_text = create_large_text_dataset('D184MB')
 
 # Try something in between?
+# USE THIS DATASET, it will have to be found and uploaded online
+# (Too big to upload to git)
 large_text = create_large_text_dataset('D357MB')
 
 # 1 GB far too large, caused time outs
